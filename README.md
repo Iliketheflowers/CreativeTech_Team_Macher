@@ -203,19 +203,28 @@ Continue by copying the TOPs and CHOPs in the Screenshot below.
 
 ![FullTD](Images/ParticleCloudVideo.png)
 
-1. ramp
+1. ramp (TOP)
 - Generates a gradient used to initialize or influence particle distribution.
 
-2. null
+2. null (TOP)
 - Serves as a clean reference point for exporting parameters.
 
-3. topto
+3. topto (CHOP)
 - Converts visual data into numeric values usable by the particle system.
 
-4. color
+4. Null_Color (CHOP)
 - Defines the color appearance of the particles
 
-5. particlesGPU
+5. particlesGPU (Is not a Chop insert from Palette -> Tools)
+- Connect "Speed_Null" from Melody into ParticleGPU Parameter "Speed"
+- Connect "Color_Null" from Visuals into ParticleGPU Parameter "Color Lookup"
 - Main particle engine
 - Receives: 
 High-frequency audio data -> controls particle speed and motion
+Other control signals -> influence particle behavior over time
+
+6. transform (TOP)
+- Applies global transformations to the particle system
+
+7. Null (TOP)
+- Final output reference for rendering or compositing
