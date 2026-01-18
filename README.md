@@ -31,10 +31,10 @@ Overall, the project explores how sound and visuals merge into one immersive spa
 - Touchdesigner (Version 2025.31310, non-commercial)
 - Mireilles music shit
 
-**Connection scheme**
+**Communication Diagram Softwares**
 Music - Mixer - Stem separator - Touchdesigner - Projector
 
-**Communication Diagram**
+**Communication Diagram Hardwares**
 @mireille pls do schnell mitem DJ set und Beamer ufschribe was wohere wie im bispil cause IDK lol
 
 ---
@@ -347,3 +347,8 @@ Anna-Maria played a crucial role in both the design and production side of the p
 During this project we significantly improved our understanding of TouchDesigner and audio-reactive visual systems. We learned how to structure larger networks, separate audio frequencies and map sound data to visual parameters in a meaningful was. Working with different approaches such as particle systems, camera sequencing and pseudo liquid simulations helped us understand how individual nodes interact and how complex visuals can be built from simple components.
 
 Additionally working with projection mapping in MadMapper expanded our understanding of how digital visuals can be adapted to physical spaces. Overall this project helped us better understand both the technical possibilities and the creative flexibility of audiovisual workflows.
+
+
+### Use of AI tools (ChatGPT)
+
+ChatGPT was used as a supportive learning and research tool throughout the project. It helped explain TouchDesigner nodes and signal flows that were not fully understood at first, making complex setups easier to grasp. In addition, ChatGPT was used to suggest alternative approaches, for example different possibilities for audio stem and frequency separation, which supported experimentation beyond the initial setups. The tool was used as a supplement to tutorials and personal experimentation, not as a replacement and contributed to a deeper understanding of the technical and creative possibilities of the projects.
