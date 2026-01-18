@@ -311,4 +311,10 @@ By adjusting values, testing alternative settings and observing the visual outco
 Although the project is based on a tutorial series by the same creator, combining the individual parts into one coherend, audio reactive system required understanding the underlying logic rather than simply reproducing the tutorials. This process allowed us to develop confidence in modifying existing setups and using them as a foundation for our own visual ideas.
 
 
+#### Projection mapping
+
+In addition to the TouchDesigner setup, MadMapper was used to project the final visual output onto three physical boards. This required multiple projection surfaces and manually mapping the video output to the individual shapes. Through this process, we adjusted scale, position and perspective to ensure that the visuals aligned correctly with the physical objects. This step extended the digital project into a spatial, physical context and added another layer of technical and creative complexity.
+
+
+
 ---
