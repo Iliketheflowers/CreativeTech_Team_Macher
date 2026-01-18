@@ -331,7 +331,7 @@ In addition to the TouchDesigner setup, MadMapper was used to project the final 
 
 ### Challenges
 
-### task distribution
+### Task distribution
 
 Mireille was responsible for the backend and audio processing pipeline. She implemented the real-time AI stem separation (source separation), which splits a finished song live into its individual components such as drums, bass, melodies/instruments, and vocals. This technical foundation made it possible for the visuals to react to specific parts of the music instead of just the overall sound.
 
