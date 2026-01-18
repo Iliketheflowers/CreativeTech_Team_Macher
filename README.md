@@ -47,7 +47,7 @@ This Project transforms a video into a particle system. Each pixel of the video 
 Software:
 - Touchdesigner
 - A video file (.mp4)
-- An audio file
+- An audio file (.mp3)
 
 
 #### Instructions
@@ -132,17 +132,29 @@ Continue by copying the TOPs and CHOPs in the Screenshot below.
 - Define camera perspectives and lightings
 - Improve depth and readability of the particle system.
 
-Audio File
-   ↓
-audiofilein → audioAnalysis → kick extraction
-   ↓
-TouchDesigner parameters
-   ↓
-Particle movement
 
-Video File
-   ↓
-moviefilein → TOP → CHOP → geometry
-   ↓
-Particle positions
+
+
+
+
+
+### Project DancingParticles
+
+#### Description Project DancingParticles
+
+This project displays a 3D particle cloud that reacts to music in real time. The high frequencies of the audio control the speed and motion of the particles, while the low frequency beats ("kicks") trigger rapid camera viewpoint changes. This creates the impression that the 3D object is dancing through dynamic shifts in perspective.
+
+#### Requirements
+
+Software:
+- Touchdesigner
+- A audio file (.mp3)
+
+#### Instructions
+
+![FullTD](Images/ParticleCloudall.png)
+
+The whole project is separated into two main sections:
+- Audio separation (green Area)
+- Movie into Particles (purple Area)
 
