@@ -279,9 +279,8 @@ Software:
 
 1. Tutorial - Pseudo Liquid
 
-Creates a fluid like motion. 
-
-Forms the base structure of the liquid behavior
+- Creates a fluid like motion. 
+- Forms the base structure of the liquid behavior
 
 [![TouchDesigner Basics Tutorial](https://img.youtube.com/vi/Omj6mpf6kTk/0.jpg)](https://www.youtube.com/watch?v=Omj6mpf6kTk)
 
