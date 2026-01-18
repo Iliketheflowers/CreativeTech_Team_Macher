@@ -288,12 +288,12 @@ Software:
 
 
 
-2. Tutorial - Metall
+2. Tutorial - Metallic Glass
 
-Link -> 
+- Adds metallic appearance.
+- Focuses on surface properties rather than geometry complexity
 
-Adds metallic appearance.
-Focuses on surface properties rather than geometry complexity
+[![TouchDesigner Basics Tutorial](https://img.youtube.com/vi/YLnmP48qFhY/0.jpg)](https://www.youtube.com/watch?v=YLnmP48qFhY)
 
 
 3. Tutorial - Audioreactivity
