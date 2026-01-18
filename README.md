@@ -53,7 +53,6 @@ Because of this, we had to change our setup spontaneously. Fortunately, I had al
 <img width="1861" height="949" alt="Bildschirmfoto 2026-01-18 um 21 05 24" src="https://github.com/user-attachments/assets/4da25a6c-41ce-4877-bfb7-53758f7a21bc" />
 <img width="845" height="858" alt="Bildschirmfoto 2026-01-18 um 20 58 58" src="https://github.com/user-attachments/assets/6bf0085b-50a3-4112-90f1-0d3604a81ca8" />
 <img width="701" height=<img width="915" height="791" alt="Bildschirmfoto 2026-01-18 um 20 59 40" src="https://github.com/user-attachments/assets/3996052f-99f4-4fbb-b6f2-00d932a73939" />
-"355" alt="Bildschirmfoto 2026-01-18 um 21 00 53" src="https://github.com/user-attachments/assets/f51bbc83-a8dc-4b8c-9f9f-c69699cd6ace" />
 <img width="1616" height="829" alt="Bildschirmfoto 2026-01-18 um 21 02 28" src="https://github.com/user-attachments/assets/5e2ba63a-4627-4914-8657-744581c22b18" />
 
 
