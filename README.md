@@ -1,8 +1,20 @@
-# CreativeTech_Team_Macher
+# Documentation_CreativeTechnology_Team_Macher
 
 ## About
 
-aölksjdfölqwkej
+ Our project is a **sound-reactive music animation** designed to create an immersive, drifting experience. The visuals respond in real time to the music, turning sound into movement, light, and form. Instead of watching a fixed animation, the audience enters a living audiovisual space that constantly changes with the audio.
+
+
+The goal is to create a floating, meta-universe–like atmosphere that makes viewers feel as if they are leaving the physical room and slipping into another world. The experience is meant to be calming, hypnotic, and slightly surreal—somewhere between being awake and dreaming.
+
+
+A key part of our visual identity is the use of eyes. The eyes act as a recurring visual motif that gives the world a sense of presence, awareness, and connection. They make the environment feel alive, as if it is observing and reacting to the sound together with the audience.
+
+
+The animation is intended to be experienced while sitting or lying down, allowing the body to relax and the focus to shift fully toward sound and visuals. Music drives the entire environment: rhythm, volume, and texture influence how elements move, pulse, and transform, so the audience can not only hear the music but also see and feel it.
+
+
+Overall, the project explores how sound and visuals merge into one immersive space, creating a unique journey where every piece of music generates a new, floating visual world.
 
 LINK VIDEO
 
@@ -30,7 +42,7 @@ Music - Mixer - Stem separator - Touchdesigner - Projector
 
 This Project transforms a video into a particle system. Each pixel of the video becomes a particle and the movement of these particles is influenced by audio specifically by detecting the low frequencies of the music.
 
-**Requirements**
+#### Requirements
 
 Software:
 - Touchdesigner
@@ -38,7 +50,7 @@ Software:
 - An audio file
 
 
-**Instructions**
+#### Instructions
 
 ![FullTD](Images/Eyeall.png)
 
