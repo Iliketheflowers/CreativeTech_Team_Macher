@@ -13,7 +13,7 @@ The animation is intended to be experienced while sitting or lying down, allowin
 
 Overall, the project explores how sound and visuals merge into one immersive space, creating a unique journey where every piece of music generates a new, floating visual world.
 
-[Video] [(videolink)](https://youtu.be/WIjCbAOx3d4) 
+[(videolink)](https://youtu.be/WIjCbAOx3d4) 
 
 
 <img width="2400" height="3500" alt="createhchchc" src="https://github.com/user-attachments/assets/2580c5bf-bcfd-49e3-a654-c144110b8ec1" />  
