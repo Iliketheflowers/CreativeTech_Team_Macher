@@ -298,7 +298,7 @@ Software:
 
 3. Tutorial - Audioreactivity
 
-Link ->
+- Introduces audio analysis.
+- Uses frequency bands to modulate visual parameters.
 
-Introduces audio analysis.
-Uses frequency bands to modulate visual parameters.
+[![TouchDesigner Basics Tutorial](https://img.youtube.com/vi/dkWwZ1CryYo/0.jpg)](https://www.youtube.com/watch?v=dkWwZ1CryYo)
