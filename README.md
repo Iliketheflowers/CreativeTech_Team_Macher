@@ -177,9 +177,9 @@ Create new Touchdesign file and copy these CHOPs in the Screenshot below.
 
 3. High Frequencies
 - Select (isolates higher frequency content)
-Connect Select into Math
+ - Connect Select into Math
 - Math (remaps values to a usable range)
-Connect Math into Null
+    - Connect Math into Null
 - Null (provides clean output values for particle speed control)
 
 4. Kick Frequencies
