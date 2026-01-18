@@ -266,7 +266,7 @@ Continue by copying the COMPs in the Screenshot below. This creates a kick drive
 
 This project presents a real time pseudo liquid simulation that visually behaves like flowing liquid but is rendered as a metallic surface. The liquid reacts to music: high frequencies modulate the surface motion, while low frequency beats ("kicks") trigger color changes at fixed rhythmic intervals.
 
-This project is based on the combination of three separate tutorial approaches, which were merged and extended into a single coherent audiovisual system. Because it is such a big project I will attach the links of the tutorials below instead of explaining it step by step. The videos show much more detailed instrucions than a step by step text would.
+This project is based on the combination of three separate tutorial approaches, which were merged and extended into a single coherent audiovisual system. Because the internal logic of pseudo-liquid setups is complex and difficult to explain purely in text I will provide the links of the tutorials below. The videos show much more detailed instrucions than a step by step text would.
 
 #### Requirements
 
@@ -286,8 +286,6 @@ Software:
 
 
 
-
-
 2. Tutorial - Metallic Glass
 
 - Adds metallic appearance.
@@ -302,3 +300,15 @@ Software:
 - Uses frequency bands to modulate visual parameters.
 
 [![TouchDesigner Basics Tutorial](https://img.youtube.com/vi/dkWwZ1CryYo/0.jpg)](https://www.youtube.com/watch?v=dkWwZ1CryYo)
+
+
+#### Own Contribution
+
+Through working with this tutorial series, we gained a much deeper understanding of how different nodes in TouchDesigner work together to create complex visual systems. Instead of only following the tutorials step by step, we actively experimented with the parameters and connections to better understand their influence on the overall behavior of the liquid.
+
+By adjusting values, testing alternative settings and observing the visual outcomes we were able to shape the system toward our own desired visual result. This helped us learn a lot about the possibilities within TouchDesigner especially how small parameter changes can significantly affect motion, material, appearance and audio reactivity.
+
+Although the project is based on a tutorial series by the same creator, combining the individual parts into one coherend, audio reactive system required understanding the underlying logic rather than simply reproducing the tutorials. This process allowed us to develop confidence in modifying existing setups and using them as a foundation for our own visual ideas.
+
+
+---
