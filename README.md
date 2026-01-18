@@ -50,6 +50,14 @@ We tested many different setups using several DJ softwares and finally switched 
 Technically, this setup worked well and had only minimal latency during testing. However, at the actual event we used a much larger and more complex TouchDesigner project than during rehearsals. This significantly increased the system load, and the MacBook with an M3 chip could not handle the combined processing of stem separation and the heavy visual project. This resulted in strong delays and overall performance issues.
 Because of this, we had to change our setup spontaneously. Fortunately, I had already experimented with Serato DJ’s built-in stem separation, which works directly on the DJ controller. While this approach is less flexible—since the DJ must decide in advance which stems to isolate during the mix—it was far more stable for the live situation.
 
+<img width="1861" height="949" alt="Bildschirmfoto 2026-01-18 um 21 05 24" src="https://github.com/user-attachments/assets/4da25a6c-41ce-4877-bfb7-53758f7a21bc" />
+<img width="845" height="858" alt="Bildschirmfoto 2026-01-18 um 20 58 58" src="https://github.com/user-attachments/assets/6bf0085b-50a3-4112-90f1-0d3604a81ca8" />
+<img width="701" height=<img width="915" height="791" alt="Bildschirmfoto 2026-01-18 um 20 59 40" src="https://github.com/user-attachments/assets/3996052f-99f4-4fbb-b6f2-00d932a73939" />
+"355" alt="Bildschirmfoto 2026-01-18 um 21 00 53" src="https://github.com/user-attachments/assets/f51bbc83-a8dc-4b8c-9f9f-c69699cd6ace" />
+<img width="1616" height="829" alt="Bildschirmfoto 2026-01-18 um 21 02 28" src="https://github.com/user-attachments/assets/5e2ba63a-4627-4914-8657-744581c22b18" />
+
+
+
 ### Project Eyevisual
 
 #### Description Project Eyevisual
