@@ -40,9 +40,39 @@ Software:
 
 **Instructions**
 
-
-## Screenshots
-
 ![FullTD](Images/Eyeall.png)
 
+The whole project is separated into two main sections:
+- Audio separation (green Area)
+- Movie into Particles (purple Area)
 
+**Audio separation**
+
+Create a new Touchdesign file and copy the CHOPs in the Screenshot below.
+![FullTD](Images/EyeAudio.png)
+
+
+1. audiofilein
+- Insert Audio in "File"
+- Loads and plays the audio
+- Outputs two audio channels
+
+2. audioAnalysis (Is not a Chop insert from Palette -> Tools)
+- Enable "Kick" and adjust the Thresh
+-   Analyzes the incoming audio signal
+-   Extracts frequency information
+
+3. select
+- Selects the low frequency band labeled "kick"
+- This isolates the beat of the music
+
+4. audiofilter
+-  Smooths the kick signal.
+Prevents jittery or unstable motion in visuals.
+
+5. math
+- Remaps and scales the kick values
+- Ensures the values are usable for controlling particle movement.
+
+6. audiodevout
+- Sends the audio to the speakers to test and hear the sound
