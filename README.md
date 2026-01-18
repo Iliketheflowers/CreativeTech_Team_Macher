@@ -269,7 +269,6 @@ Continue by copying the COMPs in the Screenshot below. This creates a kick drive
 
 
 
-
 ### Project MetallVisual
 
 #### Description Project MetallVisual
@@ -334,15 +333,20 @@ In addition to the TouchDesigner setup, MadMapper was used to project the final 
 
 ### Planning and development
 
+During the planning phase, we envisioned the project not only as a digital animation but as a live, physical experience. Our initial concept was to host an event at Maison, a club in Bern, where the sound-reactive visuals would be combined with real-time music stem separation and a light show.
+
+The idea was to transform the club space into an immersive environment in which music, visuals, and light merge into one sensory experience. This plan strongly influenced our development process, as it pushed us to think beyond the screen and consider real-time performance, spatial impact, and audience immersion from the very beginning.
+
 ### Challenges
+Implementing real-time stem separation in Maison would have been significantly more complex than expected. We would have had no preparation or setup time on site, and the system would have needed to work seamlessly with the DJ’s existing software. Since compatibility between our setup and the DJ’s program was uncertain, this made the entire concept technically risky and difficult to control.
+
+At the same time, we realized that we were increasingly motivated by the idea of creating our own independent event—something we had wanted to do for a long time. This desire for more creative and technical freedom ultimately influenced our decision-making and led us to rethink the original plan.
 
 ### Task distribution
 
 Mireille was responsible for the backend and audio processing pipeline. She implemented the real-time AI stem separation (source separation), which splits a finished song live into its individual components such as drums, bass, melodies/instruments, and vocals. This technical foundation made it possible for the visuals to react to specific parts of the music instead of just the overall sound.
 
-
 Stefanie worked on the frontend and visual system—everything the audience actually sees. This includes the real-time visuals, their behavior, and how they respond to the separated audio stems. Stef translated sound into motion, light, and form, shaping the immersive world of the experience.
-
 
 Anna-Maria played a role in both the design and production side of the project. She designed the flyer and visual communication for the event, making sure the project had a strong and coherent public identity. In addition, she was an active part of the visual team, contributing to the look, style, and atmosphere of the animation, helping define how the project feels and is perceived by the audience.
 
