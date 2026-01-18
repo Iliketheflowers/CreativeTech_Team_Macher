@@ -68,7 +68,7 @@ Create a new Touchdesign file and copy the CHOPs in the Screenshot below.
 - Loads and plays the audio
 - Outputs two audio channels
 
-2. audioAnalysis (Is not a Chop insert from Palette -> Tools)
+2. Beat separator (Is not a Chop insert from Palette -> Tools)
 - Enable "Kick" and adjust the Thresh
 - Analyzes the incoming audio signal
 - Extracts frequency information
@@ -155,6 +155,23 @@ Software:
 ![FullTD](Images/ParticleCloudall.png)
 
 The whole project is separated into two main sections:
-- Audio separation (green Area)
-- Movie into Particles (purple Area)
+- Audio (green Area)
+- ParticleCloud Visuals (purple Area)
+- Camera Sequencer (grey Area)
+
+**Audio separation**
+
+Create new Touchdesign file and copy these CHOPs in the Screenshot below.
+
+![FullTD](Images/ParticleCloudAudio.png)
+
+1. audiofilein
+- Insert .mp3 in "File"
+- Loads and plays the audio
+- Outputs two audio channels
+
+2. beat separator (Is not a Chop insert from Palette -> Tools)
+- Enable "Kick" and adjust the Thresh
+- Analyzes the incoming audio signal
+- Extracts frequency information
 
