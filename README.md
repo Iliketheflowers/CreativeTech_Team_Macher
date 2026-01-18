@@ -51,7 +51,6 @@ The whole project is separated into two main sections:
 Create a new Touchdesign file and copy the CHOPs in the Screenshot below.
 ![FullTD](Images/EyeAudio.png)
 
-
 1. audiofilein
 - Insert Audio in "File"
 - Loads and plays the audio
@@ -59,10 +58,11 @@ Create a new Touchdesign file and copy the CHOPs in the Screenshot below.
 
 2. audioAnalysis (Is not a Chop insert from Palette -> Tools)
 - Enable "Kick" and adjust the Thresh
--   Analyzes the incoming audio signal
--   Extracts frequency information
+- Analyzes the incoming audio signal
+- Extracts frequency information
 
 3. select
+- in Dropdown Channel names choose "kick"
 - Selects the low frequency band labeled "kick"
 - This isolates the beat of the music
 
@@ -76,3 +76,9 @@ Prevents jittery or unstable motion in visuals.
 
 6. audiodevout
 - Sends the audio to the speakers to test and hear the sound
+
+
+**Video into particle conversion**
+
+Create a new Touchdesign file and copy the CHOPs in the Screenshot below.
+![FullTD](Images/EyeVideo.png)
