@@ -16,7 +16,7 @@ Overall, the project explores how sound and visuals merge into one immersive spa
 [Video] [(videolink)](https://youtu.be/WIjCbAOx3d4) 
 
 
-<img width="2477" height="3515" alt="createhchchc" src="https://github.com/user-attachments/assets/2580c5bf-bcfd-49e3-a654-c144110b8ec1" />  
+<img width="2400" height="3500" alt="createhchchc" src="https://github.com/user-attachments/assets/2580c5bf-bcfd-49e3-a654-c144110b8ec1" />  
 
 
 ---
