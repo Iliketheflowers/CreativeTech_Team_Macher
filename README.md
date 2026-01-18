@@ -26,7 +26,7 @@ Music - Mixer - Stem separator - Touchdesigner - Projector
 
 ### Project Eyevisual
 
-**Description Project Eyevisual**
+#### Description Project Eyevisual
 
 This Project transforms a video into a particle system. Each pixel of the video becomes a particle and the movement of these particles is influenced by audio specifically by detecting the low frequencies of the music.
 
