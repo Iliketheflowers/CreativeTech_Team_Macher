@@ -228,3 +228,27 @@ Other control signals -> influence particle behavior over time
 
 7. Null (TOP)
 - Final output reference for rendering or compositing
+
+
+**Camera Sequencer**
+
+Continue by copying the COMPs in the Screenshot below. This creates a kick driven camera switching. Each detected kick advances the camera blend. Rapid perspective changes create the illusion of movement and dancing.
+
+![FullTD](Images/ParticleCloudCam.png)
+
+1. Null (Lookat)
+- Ensures all cameras point toward the same focal point
+
+2. Multiple cam nodes (cam1, cam2, cam3)
+- Each camera represents a different viewpoint of the particle cloud.
+- Select each camera activate "view active" and change the viewpoint of each camera.
+
+3. Camera Blend
+- Connect all Camera Nodes to the Camera Blend
+- Connect "lfo" from Audio into Camera Blend Parameter "Sequence"
+- Connect "Camera Blend" into ParticleGPU Parameter "Camera"
+- Blends between different camera inputs.
+- the blending index is controlled by the kick signal
+
+
+
