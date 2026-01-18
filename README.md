@@ -34,7 +34,7 @@ Overall, the project explores how sound and visuals merge into one immersive spa
 **Connection scheme**
 Music - Mixer - Stem separator - Touchdesigner - Projector
 
-
+---
 
 ### Project Eyevisual
 
@@ -134,7 +134,7 @@ Continue by copying the TOPs and CHOPs in the Screenshot below.
 
 
 
-
+---
 
 
 
