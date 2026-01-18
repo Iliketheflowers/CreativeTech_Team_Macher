@@ -45,6 +45,10 @@ MacBook- Dj controller - MacBook - Beaer/Screen
 ---
 
 ### Stem Separation
+For this project, we worked on implementing live stem separation to drive visual animations that react to more complex musical elements than just the kick (such as vocals, melodies, or drums).
+We tested many different setups using several DJ softwares and finally switched to a DAW-based solution that was recommended to me by ChatGPT. We used Reaper (Repo), although the setup would have worked similarly with other DAWs. With a dedicated plugin for live stem separation, the incoming music from Serato DJ was split into multiple stems, routed to separate channels, and then sent individually into TouchDesigner for real-time visual control.
+Technically, this setup worked well and had only minimal latency during testing. However, at the actual event we used a much larger and more complex TouchDesigner project than during rehearsals. This significantly increased the system load, and the MacBook with an M3 chip could not handle the combined processing of stem separation and the heavy visual project. This resulted in strong delays and overall performance issues.
+Because of this, we had to change our setup spontaneously. Fortunately, I had already experimented with Serato DJ’s built-in stem separation, which works directly on the DJ controller. While this approach is less flexible—since the DJ must decide in advance which stems to isolate during the mix—it was far more stable for the live situation.
 
 ### Project Eyevisual
 
@@ -330,6 +334,10 @@ In addition to the TouchDesigner setup, MadMapper was used to project the final 
 
 
 ## Reflection
+
+This project clearly showed us that thorough on-site testing and realistic technical preparation are essential. Live setups are often unpredictable, and even systems that work well in controlled environments can fail under real performance conditions. Especially in the field of live stem separation, where multiple heavy processes run simultaneously, hardware limitations become a critical factor.
+At the same time, the project allowed us to build strong practical knowledge in current stem separation technologies and their possibilities and limitations. We now feel well informed in this area and are excited to see how future hardware and software developments will expand what is possible for real-time audiovisual performances.
+
 
 ### Planning and development
 
