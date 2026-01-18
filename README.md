@@ -64,7 +64,7 @@ Create a new Touchdesign file and copy the CHOPs in the Screenshot below.
 ![FullTD](Images/EyeAudio.png)
 
 1. audiofilein
-- Insert Audio in "File"
+- Insert .mp3 in "File"
 - Loads and plays the audio
 - Outputs two audio channels
 
@@ -92,5 +92,57 @@ Prevents jittery or unstable motion in visuals.
 
 **Video into particle conversion**
 
-Create a new Touchdesign file and copy the CHOPs in the Screenshot below.
+Continue by copying the TOPs and CHOPs in the Screenshot below.
 ![FullTD](Images/EyeVideo.png)
+
+1. moviefilein
+- Insert .mp4 in "File"
+- Loads a video file
+- Each frame of the video is used as visual source data.
+
+2. topto (TOP -> CHOP)
+- change "First RGBA Contains" dropdown into: "Height (R)"
+- Converts pixel data from the video into numeric values.
+- These values later define particle positions.
+
+3. random1 & random2
+- Adds variation to particle positions.
+- Prevents particles from forming a rigid grid.
+
+4. Box (KickParticles)
+- Connect the Node "Math" from the audioseparation into the Box **parameter** "Uniform Scale"
+- Acts the base geometry
+- Receives influence from the audio kick signal.
+- This causes: Strong beats -> stronger particle movement. Quiet sections -> calmer visuals
+
+5. copy
+- Copies geometry points.
+- Creates a particle like structure from data
+
+6. geo (COMP)
+- Combines geometry and particle data.
+- Receives audio driven values that affect movement.
+
+7. render
+- Renders the Scene
+- This will be the final visual output
+
+8. cam, light1, light2 (COMPs)
+- Connect these Comps to the Render
+- Define camera perspectives and lightings
+- Improve depth and readability of the particle system.
+
+Audio File
+   ↓
+audiofilein → audioAnalysis → kick extraction
+   ↓
+TouchDesigner parameters
+   ↓
+Particle movement
+
+Video File
+   ↓
+moviefilein → TOP → CHOP → geometry
+   ↓
+Particle positions
+
