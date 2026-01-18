@@ -183,4 +183,27 @@ Connect Math into Null
 - Null (provides clean output values for particle speed control)
 
 4. Kick Frequencies
-- 
+- Lag (smooths sudden changes in the kick signal)
+Connect Lag into Select
+- Select (isolates the kick channel)
+Connect Select into Count
+- Count (converts each kick into a discrete trigger.)
+Connect Count into null
+- Null (outputs stable kick pulses for camera switching)
+
+5. lfo
+- Connect "Select" from Kick into lfo Parameter "Frequency"
+- Generates oscillating values influenced by the kick
+- Adds rhythmic variation to visual parameters
+
+
+**Particle system**
+
+Continue by copying the TOPs and CHOPs in the Screenshot below.
+
+![FullTD](Images/ParticleCloudVideo.png)
+
+moviefilein
+Insert .mp4 in "File"
+Loads a video file
+Each frame of the video is used as visual source data.
