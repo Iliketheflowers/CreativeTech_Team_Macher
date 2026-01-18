@@ -175,3 +175,12 @@ Create new Touchdesign file and copy these CHOPs in the Screenshot below.
 - Analyzes the incoming audio signal
 - Extracts frequency information
 
+3. High Frequencies
+- Select (isolates higher frequency content)
+Connect Select into Math
+- Math (remaps values to a usable range)
+Connect Math into Null
+- Null (provides clean output values for particle speed control)
+
+4. Kick Frequencies
+- 
