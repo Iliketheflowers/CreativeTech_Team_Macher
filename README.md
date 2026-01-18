@@ -25,17 +25,21 @@ Overall, the project explores how sound and visuals merge into one immersive spa
 **Hardware:**
 - MacBook Pro (Apple M2 Pro)
 - Mixer Console (Audio Tech) 
-- Projector
+- Projector 2x
+- Screen
+- Hdmi splitter
 
 **Softwares**
 - Touchdesigner (Version 2025.31310, non-commercial)
-- Mireilles music shit
+- Serato Dj
+- madmapper
+- reaper
 
 **Communication Diagram Softwares**
-Music - Mixer - Stem separator - Touchdesigner - Projector
+Serato Dj - Stem separator - Touchdesigner - Madmapper 
 
 **Communication Diagram Hardwares**
-@mireille pls do schnell mitem DJ set und Beamer ufschribe was wohere wie im bispil cause IDK lol
+MacBook- Dj controller - MacBook - Beaer/Screen
 
 ---
 
