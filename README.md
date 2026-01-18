@@ -4,12 +4,9 @@
 
 Our project is a **sound-reactive music animation** designed to create an immersive, drifting experience. The visuals respond in real time to the music, turning sound into movement, light, and form. Instead of watching a fixed animation, the audience enters a living audiovisual space that constantly changes with the audio.
 
-
 The goal is to create a floating, meta-universe–like atmosphere that makes viewers feel as if they are leaving the physical room and slipping into another world. The experience is meant to be calming, hypnotic, and slightly surreal—somewhere between being awake and dreaming.
 
-
 A key part of our visual identity is the use of eyes. The eyes act as a recurring visual motif that gives the world a sense of presence, awareness, and connection. They make the environment feel alive, as if it is observing and reacting to the sound together with the audience.
-
 
 The animation is intended to be experienced while sitting or lying down, allowing the body to relax and the focus to shift fully toward sound and visuals. Music drives the entire environment: rhythm, volume, and texture influence how elements move, pulse, and transform, so the audience can not only hear the music but also see and feel it.
 
@@ -17,6 +14,10 @@ The animation is intended to be experienced while sitting or lying down, allowin
 Overall, the project explores how sound and visuals merge into one immersive space, creating a unique journey where every piece of music generates a new, floating visual world.
 
 [Video] [(videolink)](https://youtu.be/WIjCbAOx3d4) 
+
+
+<img width="2477" height="3515" alt="createhchchc" src="https://github.com/user-attachments/assets/2580c5bf-bcfd-49e3-a654-c144110b8ec1" />  
+
 
 ---
 
@@ -343,7 +344,7 @@ Mireille was responsible for the backend and audio processing pipeline. She impl
 Stefanie worked on the frontend and visual system—everything the audience actually sees. This includes the real-time visuals, their behavior, and how they respond to the separated audio stems. Stef translated sound into motion, light, and form, shaping the immersive world of the experience.
 
 
-Anna-Maria played a crucial role in both the design and production side of the project. She designed the flyer and visual communication for the event, making sure the project had a strong and coherent public identity. In addition, she was an active part of the visual team, contributing to the look, style, and atmosphere of the animation, helping define how the project feels and is perceived by the audience.
+Anna-Maria played a role in both the design and production side of the project. She designed the flyer and visual communication for the event, making sure the project had a strong and coherent public identity. In addition, she was an active part of the visual team, contributing to the look, style, and atmosphere of the animation, helping define how the project feels and is perceived by the audience.
 
 
 ### Learning progress
