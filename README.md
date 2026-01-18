@@ -203,7 +203,19 @@ Continue by copying the TOPs and CHOPs in the Screenshot below.
 
 ![FullTD](Images/ParticleCloudVideo.png)
 
-moviefilein
-Insert .mp4 in "File"
-Loads a video file
-Each frame of the video is used as visual source data.
+1. ramp
+- Generates a gradient used to initialize or influence particle distribution.
+
+2. null
+- Serves as a clean reference point for exporting parameters.
+
+3. topto
+- Converts visual data into numeric values usable by the particle system.
+
+4. color
+- Defines the color appearance of the particles
+
+5. particlesGPU
+- Main particle engine
+- Receives: 
+High-frequency audio data -> controls particle speed and motion
