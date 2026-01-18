@@ -34,7 +34,12 @@ Overall, the project explores how sound and visuals merge into one immersive spa
 **Connection scheme**
 Music - Mixer - Stem separator - Touchdesigner - Projector
 
+**Communication Diagram**
+@mireille pls do schnell mitem DJ set und Beamer ufschribe was wohere wie im bispil cause IDK lol
+
 ---
+
+### Stem Separation
 
 ### Project Eyevisual
 
@@ -335,3 +340,10 @@ Stefanie worked on the frontend and visual system—everything the audience actu
 
 
 Anna-Maria played a crucial role in both the design and production side of the project. She designed the flyer and visual communication for the event, making sure the project had a strong and coherent public identity. In addition, she was an active part of the visual team, contributing to the look, style, and atmosphere of the animation, helping define how the project feels and is perceived by the audience.
+
+
+### Learning progress
+
+During this project we significantly improved our understanding of TouchDesigner and audio-reactive visual systems. We learned how to structure larger networks, separate audio frequencies and map sound data to visual parameters in a meaningful was. Working with different approaches such as particle systems, camera sequencing and pseudo liquid simulations helped us understand how individual nodes interact and how complex visuals can be built from simple components.
+
+Additionally working with projection mapping in MadMapper expanded our understanding of how digital visuals can be adapted to physical spaces. Overall this project helped us better understand both the technical possibilities and the creative flexibility of audiovisual workflows.
