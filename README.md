@@ -252,3 +252,50 @@ Continue by copying the COMPs in the Screenshot below. This creates a kick drive
 
 
 
+
+
+
+---
+
+
+
+
+### Project MetallVisual
+
+#### Description Project MetallVisual
+
+This project presents a real time pseudo liquid simulation that visually behaves like flowing liquid but is rendered as a metallic surface. The liquid reacts to music: high frequencies modulate the surface motion, while low frequency beats ("kicks") trigger color changes at fixed rhythmic intervals.
+
+This project is based on the combination of three separate tutorial approaches, which were merged and extended into a single coherent audiovisual system. Because it is such a big project I will attach the links of the tutorials below instead of explaining it step by step. The videos show much more detailed instrucions than a step by step text would.
+
+#### Requirements
+
+Software:
+- Touchdesigner
+- A Audio File (.mp3)
+- A PBR can download it for free online (.exr)
+
+#### Instructions
+
+1. Tutorial - Pseudo Liquid
+
+Link -> [TutorialPseudoLiquid] (https://www.youtube.com/watch?v=Omj6mpf6kTk)
+
+Creates a fluid like motion. 
+Forms the base structure of the liquid behavior
+
+
+2. Tutorial - Metall
+
+Link -> 
+
+Adds metallic appearance.
+Focuses on surface properties rather than geometry complexity
+
+
+3. Tutorial - Audioreactivity
+
+Link ->
+
+Introduces audio analysis.
+Uses frequency bands to modulate visual parameters.
