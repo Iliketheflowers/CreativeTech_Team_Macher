@@ -16,9 +16,9 @@ The animation is intended to be experienced while sitting or lying down, allowin
 
 Overall, the project explores how sound and visuals merge into one immersive space, creating a unique journey where every piece of music generates a new, floating visual world.
 
-LINK VIDEO
+[Video] (videolink)
 
-
+---
 
 ## Usage
 
@@ -52,7 +52,7 @@ Software:
 
 #### Instructions
 
-![FullTD](Images/Eyeall.png)
+![FullEye](Images/Eyeall.png)
 
 The whole project is separated into two main sections:
 - Audio separation (green Area)
@@ -61,7 +61,7 @@ The whole project is separated into two main sections:
 **Audio separation**
 
 Create a new Touchdesign file and copy the CHOPs in the Screenshot below.
-![FullTD](Images/EyeAudio.png)
+![AudioEye](Images/EyeAudio.png)
 
 1. audiofilein
 - Insert .mp3 in "File"
@@ -93,7 +93,7 @@ Prevents jittery or unstable motion in visuals.
 **Video into particle conversion**
 
 Continue by copying the TOPs and CHOPs in the Screenshot below.
-![FullTD](Images/EyeVideo.png)
+![VideoEye](Images/EyeVideo.png)
 
 1. moviefilein
 - Insert .mp4 in "File"
@@ -152,7 +152,7 @@ Software:
 
 #### Instructions
 
-![FullTD](Images/ParticleCloudall.png)
+![FullCloud](Images/ParticleCloudall.png)
 
 The whole project is separated into two main sections:
 - Audio (green Area)
@@ -163,7 +163,7 @@ The whole project is separated into two main sections:
 
 Create new Touchdesign file and copy these CHOPs in the Screenshot below.
 
-![FullTD](Images/ParticleCloudAudio.png)
+![AudioCloud](Images/ParticleCloudAudio.png)
 
 1. audiofilein
 - Insert .mp3 in "File"
@@ -177,18 +177,18 @@ Create new Touchdesign file and copy these CHOPs in the Screenshot below.
 
 3. High Frequencies
 - Select (isolates higher frequency content)
- - Connect Select into Math
+    - Connect Select into Math
 - Math (remaps values to a usable range)
     - Connect Math into Null
 - Null (provides clean output values for particle speed control)
 
 4. Kick Frequencies
 - Lag (smooths sudden changes in the kick signal)
-Connect Lag into Select
+    - Connect Lag into Select
 - Select (isolates the kick channel)
-Connect Select into Count
+    - Connect Select into Count
 - Count (converts each kick into a discrete trigger.)
-Connect Count into null
+    - Connect Count into null
 - Null (outputs stable kick pulses for camera switching)
 
 5. lfo
@@ -201,7 +201,7 @@ Connect Count into null
 
 Continue by copying the TOPs and CHOPs in the Screenshot below.
 
-![FullTD](Images/ParticleCloudVideo.png)
+![VideoCloud](Images/ParticleCloudVideo.png)
 
 1. ramp (TOP)
 - Generates a gradient used to initialize or influence particle distribution.
@@ -234,7 +234,7 @@ Other control signals -> influence particle behavior over time
 
 Continue by copying the COMPs in the Screenshot below. This creates a kick driven camera switching. Each detected kick advances the camera blend. Rapid perspective changes create the illusion of movement and dancing.
 
-![FullTD](Images/ParticleCloudCam.png)
+![CameraCloud](Images/ParticleCloudCam.png)
 
 1. Null (Lookat)
 - Ensures all cameras point toward the same focal point
